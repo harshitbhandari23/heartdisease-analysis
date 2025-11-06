@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Virtual environments
+venv/
+.env/
+.env*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Figures and outputs
+figures/
+outputs/
+
+# Data
+heart.csv
+*.csv
+*.xlsx
+*.xls
+
+# IDE
+.vscode/
+.idea/
